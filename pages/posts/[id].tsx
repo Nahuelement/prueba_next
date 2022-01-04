@@ -1,6 +1,6 @@
 import { GetServerSideProps } from "next";
 
-const BASE_URL = "http://localhost:8000/blog/api";
+const BASE_URL = "http://18.228.188.142:8000/blog/api";
 
 
 

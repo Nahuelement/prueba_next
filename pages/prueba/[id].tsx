@@ -12,7 +12,7 @@ type BlogPost = {
     status: BlogPostStatus; 
     id: number; };
 
-const BASE_URL = "http://localhost:8000/blog/api";
+const BASE_URL = "http://18.228.188.142:8000/blog/api";
 
 
 export const getStaticPaths: GetStaticPaths = async (_) => {
